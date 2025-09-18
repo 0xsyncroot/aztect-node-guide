@@ -64,11 +64,21 @@ sudo apt-get install -y gawk util-linux jq curl
 ```
 
 **Bước 1 – Lưu script:**
+- Clone script
+
 ```bash
 git clone https://github.com/0xsyncroot/aztect-node-guide.git
+```
 
+- Vào thư mục
+
+```bash
 cd aztect-node-guide
+```
 
+- Cấp quyền chạy lệnh
+
+```bash
 chmod +x aztec-node.sh
 ```
 
